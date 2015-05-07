@@ -29,7 +29,13 @@ python version: 2.x
    2) If you encounter some problems when try to run the code, please contact any member of our group for help.
 
 1. Pre-processing:
-• python step1.py #filter out dummy user• python step2.py #filter out dummy user• python step3.py #time-based session slicing• python step4.py #user group division• python step5.py #generate keyword matrix• python step6.py #generate user social network matrix• python step7.py #generate training matrix Rui
+• python step1.py #filter out dummy user
+• python step2.py #filter out dummy user
+• python step3.py #time-based session slicing
+• python step4.py #user group division
+• python step5.py #generate keyword matrix
+• python step6.py #generate user social network matrix
+• python step7.py #generate training matrix Rui
 
 2. Training Model:
    In our project, we divided the users into 11 groups according to their genders & ages. So we build different models for each group separately.
@@ -62,9 +68,6 @@ python version: 2.x
       python predict-private.py
       python MAP-private.py
 
-
-# Get source code on Github:
-https://github.com/hibazinga/dataCracker - master branch
 
 
 Thanks and enjoy.

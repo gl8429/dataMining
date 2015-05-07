@@ -68,7 +68,8 @@ python version: 2.x
       python predict-private.py
       python MAP-private.py
 
-
+If you want to save time running the preprocessing please refer to Google Drive:
+   “http://bit.ly/1Ikxh0M”
 
 Thanks and enjoy.
 
